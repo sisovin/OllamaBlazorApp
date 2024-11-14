@@ -1,0 +1,959 @@
+11/14/2024 11:25:20 AM: User: Hello, Smart Chatbot. How are you doing?
+11/14/2024 11:25:20 AM: Starting GetChatResponseAsync
+11/14/2024 11:25:20 AM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "Hello, Smart Chatbot. How are you doing?"
+}
+11/14/2024 11:30:32 AM: Error in GetChatResponseAsync: The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
+11/14/2024 11:30:35 AM: Error: The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
+11/14/2024 11:33:24 AM: User: Hello, Smart Chatbot. How are you doing?
+11/14/2024 11:33:24 AM: Starting GetChatResponseAsync
+11/14/2024 11:33:24 AM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "Hello, Smart Chatbot. How are you doing?"
+}
+11/14/2024 11:35:47 AM: Request sent successfully
+11/14/2024 11:35:47 AM: Response received: {"model":"llama3.2:3b","created_at":"2024-11-14T04:35:24.9595812Z","response":"I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:25.4428126Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:25.7676716Z","response":" doing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:26.1076433Z","response":" well","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:26.430726Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:26.7704612Z","response":" thank","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:27.1031025Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:27.434532Z","response":" for","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:27.7800057Z","response":" asking","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:28.1029467Z","response":"!","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:28.441912Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:28.7692769Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:29.1064213Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:29.4388418Z","response":" large","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:29.6413719Z","response":" language","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:29.9460259Z","response":" model","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:30.2815457Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:30.6171359Z","response":" so","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:30.9436499Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:31.287061Z","response":" don","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:31.6197669Z","response":"'t","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:31.9548763Z","response":" have","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:32.292262Z","response":" feelings","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:32.6207594Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:33.0148382Z","response":" emotions","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:33.4394766Z","response":" like","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:33.6447696Z","response":" humans","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:33.8411732Z","response":" do","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:34.1331555Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:34.4602551Z","response":" but","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:34.7953731Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:35.1345131Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:35.468154Z","response":" always","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:35.8007771Z","response":" ready","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:36.1428249Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:36.4729465Z","response":" help","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:36.8033519Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:37.1435558Z","response":" assist","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:37.4828675Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:37.8222502Z","response":" any","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:38.0356689Z","response":" questions","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:38.4598083Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:38.811984Z","response":" tasks","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:39.0228592Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:39.3214987Z","response":" may","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:39.6512414Z","response":" have","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:39.9868705Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:40.3220417Z","response":" It","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:40.6577907Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:40.9903436Z","response":" great","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:41.3230883Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:41.6539015Z","response":" chat","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:41.9883932Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:42.3240531Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:42.6629222Z","response":"!\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:42.8619106Z","response":"How","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:43.1674941Z","response":" about","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:43.4978657Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:43.8317442Z","response":"?","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:44.1652638Z","response":" How","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:44.4998962Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:44.835245Z","response":" your","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:45.1674831Z","response":" day","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:45.5102782Z","response":" going","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:45.8386776Z","response":" so","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:46.1723021Z","response":" far","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:46.51299Z","response":"?","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:35:46.8986436Z","response":"","done":true,"done_reason":"stop","context":[128006,9125,128007,271,38766,1303,33025,2696,25,6790,220,2366,18,271,128009,128006,882,128007,271,9906,11,16147,13149,6465,13,2650,527,499,3815,30,128009,128006,78191,128007,271,40,2846,3815,1664,11,9901,499,369,10371,0,358,2846,264,3544,4221,1646,11,779,358,1541,956,617,16024,477,21958,1093,12966,656,11,719,358,2846,2744,5644,311,1520,323,7945,449,904,4860,477,9256,499,1253,617,13,1102,596,2294,311,6369,449,499,2268,4438,922,499,30,2650,596,701,1938,2133,779,3117,30],"total_duration":140986871000,"load_duration":112817777600,"prompt_eval_count":36,"prompt_eval_duration":5730406000,"eval_count":68,"eval_duration":21886812000}
+
+11/14/2024 11:35:52 AM: GetChatResponseAsync completed successfully
+11/14/2024 11:35:52 AM: Ollama: I'm doing well, thank you for asking! I'm a large language model, so I don't have feelings or emotions like humans do, but I'm always ready to help and assist with any questions or tasks you may have. It's great to chat with you!
+
+How about you? How's your day going so far?
+11/14/2024 11:37:38 AM: User: My name Sisovin, I am a Blazor .Net 8 with Ollama Model. So What is your name?
+11/14/2024 11:37:38 AM: Starting GetChatResponseAsync
+11/14/2024 11:37:38 AM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "My name Sisovin, I am a Blazor .Net 8 with Ollama Model. So What is your name?"
+}
+11/14/2024 11:38:34 AM: Request sent successfully
+11/14/2024 11:38:34 AM: Response received: {"model":"llama3.2:3b","created_at":"2024-11-14T04:37:48.8765Z","response":"Nice","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:49.0892119Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:49.2826369Z","response":" meet","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:49.5823683Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:49.9049729Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:50.098764Z","response":" S","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:50.2909903Z","response":"is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:50.5865889Z","response":"ov","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:50.9101807Z","response":"in","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:51.2436146Z","response":"!\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:51.5781818Z","response":"I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:51.9124238Z","response":" don","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:52.2515797Z","response":"'t","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:52.5855054Z","response":" have","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:52.9191431Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:53.2509042Z","response":" personal","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:53.5885146Z","response":" name","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:53.9202457Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:54.2565848Z","response":" but","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:54.5916355Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:54.9252362Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:55.2598855Z","response":" an","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:55.6136542Z","response":" AI","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:55.9318529Z","response":" designed","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:56.2664404Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:56.4631276Z","response":" assist","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:56.7708338Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:57.1366273Z","response":" communicate","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:57.4433116Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:57.7706397Z","response":" developers","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:58.1087562Z","response":" like","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:58.4430011Z","response":" yourself","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:58.7814255Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:59.1147083Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:59.450397Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:37:59.7804399Z","response":" often","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:00.1193469Z","response":" referred","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:00.4946336Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:00.9833582Z","response":" as","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:01.4623211Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:01.9607921Z","response":"Assistant","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:02.2931632Z","response":"\"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:02.6222122Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:02.957142Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:03.2923313Z","response":"AI","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:03.7378691Z","response":" Assistant","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:04.1231127Z","response":"\".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:04.315035Z","response":"However","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:04.5104848Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:04.8068682Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:05.1408538Z","response":" can","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:05.4783851Z","response":" generate","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:05.8061663Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:06.1492481Z","response":" persona","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:06.4736685Z","response":" for","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:06.8080472Z","response":" our","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:07.1473829Z","response":" conversation","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:07.4805268Z","response":" if","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:07.8105859Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:08.1462109Z","response":"'d","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:08.4796646Z","response":" like","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:08.8138816Z","response":"!","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:09.1674887Z","response":" For","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:09.4865055Z","response":" this","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:09.8191675Z","response":" chat","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:10.1527771Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:10.487325Z","response":" let","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:10.8232464Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:11.1578039Z","response":" say","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:11.3519261Z","response":" my","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:11.6662745Z","response":" name","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:11.9951653Z","response":" is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:12.3375406Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:12.6682686Z","response":"Code","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:13.0056168Z","response":"Bot","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:13.337209Z","response":"\".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:13.6721522Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:14.0037902Z","response":"'ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:14.3419502Z","response":" do","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:14.6767969Z","response":" my","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:15.0075197Z","response":" best","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:15.3469449Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:15.679623Z","response":" provide","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:16.0159826Z","response":" helpful","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:16.2120289Z","response":" advice","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:16.5194702Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:16.8515949Z","response":" answer","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:17.1817489Z","response":" questions","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:17.5176067Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:17.8551704Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:18.1892489Z","response":" engage","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:18.5277664Z","response":" in","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:18.8584319Z","response":" discussions","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:19.1948916Z","response":" about","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:19.5269824Z","response":" Bl","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:19.8598949Z","response":"azor","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:20.1928961Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:20.5282682Z","response":" .","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:20.8664341Z","response":"NET","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:21.0680335Z","response":" ","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:21.3736154Z","response":"8","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:21.7073723Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:22.0349226Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:22.376219Z","response":" Ol","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:22.7291978Z","response":"lama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:23.0471634Z","response":" Model","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:23.3817424Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:23.7165786Z","response":"Now","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:24.0535415Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:24.3877217Z","response":" we","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:24.7203331Z","response":"'ve","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:25.0532207Z","response":" introduced","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:25.3873766Z","response":" ourselves","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:26.0430994Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:26.0877389Z","response":" what","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:26.1781455Z","response":" brings","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:26.4037202Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:26.7318962Z","response":" here","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:27.0683761Z","response":" today","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:27.3982519Z","response":"?","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:27.728919Z","response":" Are","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:27.9271796Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:28.1294867Z","response":" facing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:28.5427001Z","response":" any","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:28.8936239Z","response":" specific","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:29.2341251Z","response":" challenges","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:29.5697607Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:29.9014162Z","response":" need","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:30.2376303Z","response":" help","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:30.4324253Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:30.742889Z","response":" your","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:31.0750777Z","response":" Bl","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:31.4093523Z","response":"azor","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:31.7456382Z","response":" application","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:32.0752528Z","response":" using","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:32.4098721Z","response":" Ol","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:32.7512011Z","response":"lama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:33.0798524Z","response":" Model","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:33.4170422Z","response":"?","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:38:33.7543283Z","response":"","done":true,"done_reason":"stop","context":[128006,9125,128007,271,38766,1303,33025,2696,25,6790,220,2366,18,271,128009,128006,882,128007,271,5159,836,328,285,869,258,11,358,1097,264,2563,43966,662,7099,220,23,449,507,657,3105,5008,13,2100,3639,374,701,836,30,128009,128006,78191,128007,271,46078,311,3449,499,11,328,285,869,258,2268,40,1541,956,617,264,4443,836,11,719,358,2846,459,15592,6319,311,7945,323,19570,449,13707,1093,6261,13,358,2846,3629,14183,311,439,330,72803,1,477,330,15836,22103,11690,11458,11,358,649,7068,264,29055,369,1057,10652,422,499,4265,1093,0,1789,420,6369,11,1095,596,2019,856,836,374,330,2123,24406,3343,358,3358,656,856,1888,311,3493,11190,9650,11,4320,4860,11,323,16988,304,20954,922,2563,43966,11,662,15734,220,23,11,323,507,657,3105,5008,382,7184,430,584,3077,11784,13520,11,1148,12716,499,1618,3432,30,8886,499,13176,904,3230,11774,477,1205,1520,449,701,2563,43966,3851,1701,507,657,3105,5008,30],"total_duration":54670918900,"load_duration":2963593300,"prompt_eval_count":53,"prompt_eval_duration":6808411000,"eval_count":140,"eval_duration":44895851000}
+
+11/14/2024 11:38:34 AM: GetChatResponseAsync completed successfully
+11/14/2024 11:38:34 AM: Ollama: Nice to meet you, Sisovin!
+
+I don't have a personal name, but I'm an AI designed to assist and communicate with developers like yourself. I'm often referred to as "Assistant" or "AI Assistant".
+
+However, I can generate a persona for our conversation if you'd like! For this chat, let's say my name is "CodeBot". I'll do my best to provide helpful advice, answer questions, and engage in discussions about Blazor, .NET8, and Ollama Model.
+
+Now that we've introduced ourselves, what brings you here today? Are you facing any specific challenges or need help with your Blazor application using Ollama Model?
+11/14/2024 11:45:28 AM: User: Thank you, CodeBot. I am very delight to chat with you and seek for your assistance. I think not much developers are talking about the Connection Ollama using Llama3.2:3b with the Microsoft Blazor .Net8. I have just finished coding the code and the test the quality of chat and expected result from your response. That is excellent brain, and smart knowledge. 
+11/14/2024 11:45:28 AM: Starting GetChatResponseAsync
+11/14/2024 11:45:28 AM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "Thank you, CodeBot. I am very delight to chat with you and seek for your assistance. I think not much developers are talking about the Connection Ollama using Llama3.2:3b with the Microsoft Blazor .Net8. I have just finished coding the code and the test the quality of chat and expected result from your response. That is excellent brain, and smart knowledge. "
+}
+11/14/2024 11:47:18 AM: Request sent successfully
+11/14/2024 11:47:18 AM: Response received: {"model":"llama3.2:3b","created_at":"2024-11-14T04:46:23.5230194Z","response":"I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:23.947311Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:24.2976468Z","response":" glad","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:24.6380848Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:24.9726966Z","response":"'re","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:25.3099144Z","response":" excited","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:25.6422361Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:25.9753575Z","response":" chat","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:26.3099116Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:26.642208Z","response":" me","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:26.979087Z","response":"!","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:27.3111607Z","response":" However","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:27.646086Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:27.9786236Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:28.3140243Z","response":" want","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:28.5105437Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:28.8266292Z","response":" clarify","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:29.1621854Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:29.4979891Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:29.8276614Z","response":" don","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:30.164458Z","response":"'t","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:30.4986943Z","response":" think","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:30.8292102Z","response":" we","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:31.1610794Z","response":"'ve","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:31.4947423Z","response":" started","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:31.8344873Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:32.0457821Z","response":" conversation","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:32.5026548Z","response":" yet","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:32.7215842Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:32.9344651Z","response":"If","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:33.1473963Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:33.5034628Z","response":"'d","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:33.7181727Z","response":" like","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:33.9371987Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:34.1453622Z","response":" discuss","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:34.3836775Z","response":" something","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:34.5980306Z","response":" specific","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:34.8108449Z","response":" about","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:35.0182737Z","response":" Connection","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:35.3530101Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:35.681811Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:36.0189209Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:36.2268287Z","response":" using","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:36.6604075Z","response":" L","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:37.0126888Z","response":"lama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:37.2098277Z","response":"3","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:37.5278491Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:37.8600024Z","response":"2","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:38.1895188Z","response":":","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:38.5281327Z","response":"3","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:38.8617032Z","response":"b","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:39.1945356Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:39.52908Z","response":" Microsoft","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:39.8602767Z","response":" Bl","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:40.1998543Z","response":"azor","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:40.5335074Z","response":" .","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:40.8732588Z","response":"Net","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:41.078155Z","response":"8","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:41.3801861Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:41.706299Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:42.0367555Z","response":"'d","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:42.3781718Z","response":" be","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:42.715105Z","response":" happy","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:43.0465055Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:43.3819616Z","response":" help","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:43.7122595Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:44.0458563Z","response":" Could","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:44.3843746Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:44.7155649Z","response":" please","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:45.05062Z","response":" provide","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:45.3843626Z","response":" more","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:45.7182893Z","response":" context","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:46.0570959Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:46.388908Z","response":" ask","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:46.7211125Z","response":" your","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:46.9256115Z","response":" question","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:47.2302147Z","response":"?","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:47.5586813Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:47.8938797Z","response":"'ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:48.2267111Z","response":" do","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:48.5603778Z","response":" my","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:48.895898Z","response":" best","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:49.232008Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:49.564828Z","response":" assist","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:49.9001109Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:50.2357896Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:50.5691889Z","response":"Also","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:50.9052997Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:51.2401585Z","response":" just","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:51.5740419Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:51.9074117Z","response":" heads","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:52.2436975Z","response":" up","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:52.5775034Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:52.7832966Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:53.0871586Z","response":" think","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:53.4142514Z","response":" there","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:53.7507787Z","response":" might","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:54.0833282Z","response":" be","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:54.4173448Z","response":" some","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:54.7530229Z","response":" confusion","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:55.0872966Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:55.4228683Z","response":" the","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:55.7556462Z","response":" naming","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:56.0913395Z","response":" conventions","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:56.425613Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:56.7663136Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:57.1034379Z","response":"Connection","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:57.3186832Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:57.7495061Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:58.1017638Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:58.3005467Z","response":"\"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:58.6074229Z","response":" isn","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:58.9372079Z","response":"'t","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:59.2728107Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:59.6055904Z","response":" real","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:46:59.9402666Z","response":" thing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:00.2901034Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:00.6141444Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:01.1344654Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:01.6515896Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:02.1155832Z","response":" not","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:02.3286002Z","response":" aware","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:02.5368269Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:02.7714985Z","response":" any","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:02.981972Z","response":" information","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:03.2033487Z","response":" about","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:03.4160864Z","response":" an","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:03.6254421Z","response":" architecture","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:03.8446072Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:04.0593128Z","response":" technology","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:04.4487185Z","response":" called","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:04.7915572Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:05.1296331Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:05.4658422Z","response":" L","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:05.8006889Z","response":"lama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:06.1368563Z","response":"3","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:06.467206Z","response":" is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:06.8005124Z","response":" actually","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:07.1380392Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:07.4712426Z","response":" model","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:07.8061194Z","response":" developed","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:08.1415095Z","response":" by","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:08.4737086Z","response":" Meta","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:08.8084268Z","response":" AI","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:09.1435538Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:09.3537884Z","response":" but","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:09.7831469Z","response":" it","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:10.1403812Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:10.3467215Z","response":" primarily","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:10.6596018Z","response":" used","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:10.9921392Z","response":" for","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:11.3336365Z","response":" natural","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:11.6720205Z","response":" language","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:12.1331192Z","response":" processing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:12.3385909Z","response":" tasks","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:12.5496829Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:12.7682702Z","response":" not","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:12.9820358Z","response":" specifically","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:13.3296521Z","response":" for","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:13.5498164Z","response":" Bl","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:13.76377Z","response":"azor","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:13.992448Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:14.2121263Z","response":" .","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:14.4353135Z","response":"Net","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:14.6547638Z","response":"8","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:14.866589Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:15.0858538Z","response":"Let","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:15.2970736Z","response":" me","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:15.6633554Z","response":" know","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:15.8818935Z","response":" if","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:16.0910133Z","response":" there","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:16.301568Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:16.5224116Z","response":" something","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:16.7335373Z","response":" else","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:17.155049Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:17.506788Z","response":"'d","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:17.725306Z","response":" like","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:17.9604952Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:18.1734902Z","response":" discuss","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:18.3780156Z","response":"!","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:47:18.7141438Z","response":"","done":true,"done_reason":"stop","context":[128006,9125,128007,271,38766,1303,33025,2696,25,6790,220,2366,18,271,128009,128006,882,128007,271,13359,499,11,6247,24406,13,358,1097,1633,18454,311,6369,449,499,323,6056,369,701,13291,13,358,1781,539,1790,13707,527,7556,922,279,11278,507,657,3105,1701,445,81101,18,13,17,25,18,65,449,279,5210,2563,43966,662,7099,23,13,358,617,1120,8220,11058,279,2082,323,279,1296,279,4367,315,6369,323,3685,1121,505,701,2077,13,3011,374,9250,8271,11,323,7941,6677,13,220,128009,128006,78191,128007,271,40,2846,16089,499,2351,12304,311,6369,449,757,0,4452,11,358,1390,311,38263,430,358,1541,956,1781,584,3077,3940,264,10652,3686,382,2746,499,4265,1093,311,4358,2555,3230,922,11278,507,657,3105,1701,445,81101,18,13,17,25,18,65,449,5210,2563,43966,662,7099,23,11,358,4265,387,6380,311,1520,13,16910,499,4587,3493,810,2317,477,2610,701,3488,30,358,3358,656,856,1888,311,7945,499,382,13699,11,1120,264,14971,709,11,358,1781,1070,2643,387,1063,22047,449,279,36048,45593,13,330,4627,507,657,3105,1,4536,956,264,1972,3245,11,323,358,2846,539,8010,315,904,2038,922,459,18112,477,5557,2663,430,13,445,81101,18,374,3604,264,1646,8040,555,16197,15592,11,719,433,596,15871,1511,369,5933,4221,8863,9256,11,539,11951,369,2563,43966,477,662,7099,23,382,10267,757,1440,422,1070,596,2555,775,499,4265,1093,311,4358,0],"total_duration":109936707200,"load_duration":49557145100,"prompt_eval_count":107,"prompt_eval_duration":4898953000,"eval_count":181,"eval_duration":55161735000}
+
+11/14/2024 11:47:18 AM: GetChatResponseAsync completed successfully
+11/14/2024 11:47:18 AM: Ollama: I'm glad you're excited to chat with me! However, I want to clarify that I don't think we've started a conversation yet.
+
+If you'd like to discuss something specific about Connection Ollama using Llama3.2:3b with Microsoft Blazor .Net8, I'd be happy to help. Could you please provide more context or ask your question? I'll do my best to assist you.
+
+Also, just a heads up, I think there might be some confusion with the naming conventions. "Connection Ollama" isn't a real thing, and I'm not aware of any information about an architecture or technology called that. Llama3 is actually a model developed by Meta AI, but it's primarily used for natural language processing tasks, not specifically for Blazor or .Net8.
+
+Let me know if there's something else you'd like to discuss!
+11/14/2024 11:53:12 AM: User: Yes, Connection Ollama from the local pc for less economic consumption for any developers that have well. As I use the Ollama from the installed D:\Ollama that I have to download from this url https://ollama.com/library. Have you heard about this?
+11/14/2024 11:53:12 AM: Starting GetChatResponseAsync
+11/14/2024 11:53:12 AM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "Yes, Connection Ollama from the local pc for less economic consumption for any developers that have well. As I use the Ollama from the installed D:\\Ollama that I have to download from this url https://ollama.com/library. Have you heard about this?"
+}
+11/14/2024 11:56:00 AM: Request sent successfully
+11/14/2024 11:56:00 AM: Response received: {"model":"llama3.2:3b","created_at":"2024-11-14T04:55:00.1105126Z","response":"I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:00.3195535Z","response":"'m","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:00.6820349Z","response":" familiar","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:00.8621293Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:01.3517464Z","response":" Connection","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:01.8618841Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:02.3361308Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:02.6731159Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:03.0034352Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:03.3380712Z","response":" but","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:03.6765171Z","response":" it","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:04.0118749Z","response":" seems","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:04.3377455Z","response":" like","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:04.6781138Z","response":" there","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:05.0107776Z","response":" might","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:05.3515968Z","response":" be","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:05.6789566Z","response":" some","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:06.0186494Z","response":" confusion","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:06.2327347Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:06.6646026Z","response":" There","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:07.0261886Z","response":" is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:07.2344903Z","response":" no","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:07.4792609Z","response":" information","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:07.8553292Z","response":" available","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:08.1953911Z","response":" on","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:08.530083Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:08.8592644Z","response":" software","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:09.2059196Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:09.4310063Z","response":" technology","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:09.6389442Z","response":" called","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:10.0206964Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:10.3646359Z","response":"Connection","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:10.7020438Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:11.0348785Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:11.3735284Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:11.7011409Z","response":"\"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:12.0458915Z","response":" specifically","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:12.3714372Z","response":" designed","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:12.7028515Z","response":" for","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:13.0416228Z","response":" reducing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:13.3759802Z","response":" economic","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:13.7092973Z","response":" consumption","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:14.0433114Z","response":" by","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:14.3807353Z","response":" developers","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:14.7123096Z","response":" who","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:15.0526684Z","response":" have","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:15.2577402Z","response":" access","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:15.6908735Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:16.0491654Z","response":" well","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:16.2591178Z","response":" water","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:16.4773858Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:16.6996249Z","response":"However","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:16.9185558Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:17.1379499Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:17.3397593Z","response":" found","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:17.7156922Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:17.9277586Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:18.1453748Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:18.3680676Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:18.5915072Z","response":" is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:18.8041936Z","response":" an","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:19.0203554Z","response":" open","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:19.2361895Z","response":"-source","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:19.4483101Z","response":" library","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:19.8804935Z","response":" developed","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:20.231841Z","response":" in","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:20.4355892Z","response":" Rust","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:20.6452811Z","response":" language","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:21.0569546Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:21.4170746Z","response":" which","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:21.7518429Z","response":" provides","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:22.2134019Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:22.4249521Z","response":" low","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:22.6264854Z","response":"-level","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:22.8435654Z","response":" interface","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:23.054118Z","response":" for","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:23.4056706Z","response":" connecting","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:23.6227805Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:23.8421501Z","response":" databases","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:24.0689021Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:24.2883653Z","response":" performing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:24.5076455Z","response":" SQL","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:24.7439048Z","response":" queries","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:25.0857615Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:25.4338033Z","response":" The","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:25.760835Z","response":" library","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:26.0923542Z","response":" is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:26.4261901Z","response":" indeed","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:26.7639927Z","response":" available","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:27.0975882Z","response":" on","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:27.4292187Z","response":" the","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:27.7720324Z","response":" official","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:28.0991177Z","response":" GitHub","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:28.4318596Z","response":" repository","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:28.7679803Z","response":" at","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:29.1022593Z","response":" https","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:29.4390411Z","response":"://","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:29.7706375Z","response":"github","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:30.1082361Z","response":".com","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:30.4403305Z","response":"/","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:30.7738676Z","response":"Connection","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:31.1122267Z","response":"O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:31.3224303Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:31.7573208Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:32.1100756Z","response":"/","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:32.3154493Z","response":"oll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:32.625401Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:32.9521871Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:33.285332Z","response":" but","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:33.6231396Z","response":" it","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:33.9624132Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:34.292651Z","response":" not","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:34.6275422Z","response":" clear","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:34.9669563Z","response":" if","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:35.4327412Z","response":" there","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:35.7937325Z","response":" is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:36.1402247Z","response":" any","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:36.4688571Z","response":" direct","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:36.8019533Z","response":" connection","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:37.1365793Z","response":" between","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:37.4691616Z","response":" this","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:37.8063237Z","response":" library","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:38.1397162Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:38.477199Z","response":" well","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:38.8102247Z","response":" water","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:39.1403706Z","response":" usage","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:39.4763517Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:39.8189413Z","response":"It","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:40.0481613Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:40.2613124Z","response":" possible","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:40.4762869Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:40.703557Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:40.9316684Z","response":" might","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:41.153087Z","response":" be","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:41.3702538Z","response":" referring","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:41.5876866Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:41.8026358Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:42.0122974Z","response":" different","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:42.2230071Z","response":" software","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:42.6358614Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:42.9860387Z","response":" technology","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:43.327363Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:43.5462271Z","response":" provides","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:43.8104399Z","response":" similar","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:44.1561383Z","response":" functionality","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:44.501761Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:44.8466198Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:45.3029559Z","response":" maybe","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:45.6668674Z","response":" there","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:46.0100717Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:46.3479998Z","response":" some","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:46.6891812Z","response":" misunderstanding","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:47.0166997Z","response":" about","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:47.3468011Z","response":" the","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:47.6778455Z","response":" purpose","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:48.0180018Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:48.3440339Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:48.6841266Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:49.0304721Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:49.5036937Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:49.8619791Z","response":" If","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:50.3423621Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:50.6929268Z","response":" could","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:51.1612212Z","response":" provide","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:51.5227005Z","response":" more","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:51.8642576Z","response":" context","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:52.2003589Z","response":" or","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:52.5318402Z","response":" clarify","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:52.8754116Z","response":" what","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:53.3407321Z","response":" you","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:53.7026756Z","response":" mean","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:53.9325735Z","response":" by","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:54.3532302Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:54.5706989Z","response":"economic","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:54.8052142Z","response":" consumption","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:55.2000341Z","response":"\"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:55.539179Z","response":" in","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:55.881664Z","response":" this","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:56.2167726Z","response":" context","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:56.4606715Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:56.8662914Z","response":" I","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:57.2186064Z","response":"'d","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:57.4337492Z","response":" be","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:57.6591859Z","response":" happy","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:57.8828253Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:58.2283314Z","response":" try","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:58.4523673Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:58.8781277Z","response":" help","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:59.2271459Z","response":" further","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:59.5657906Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:55:59.9490106Z","response":"","done":true,"done_reason":"stop","context":[128006,9125,128007,271,38766,1303,33025,2696,25,6790,220,2366,18,271,128009,128006,882,128007,271,9642,11,11278,507,657,3105,505,279,2254,13615,369,2753,7100,15652,369,904,13707,430,617,1664,13,1666,358,1005,279,507,657,3105,505,279,10487,423,7338,46,657,3105,430,358,617,311,4232,505,420,2576,3788,1129,980,3105,916,46546,13,12522,499,6755,922,420,30,128009,128006,78191,128007,271,40,2846,11537,449,11278,507,657,3105,11,719,433,5084,1093,1070,2643,387,1063,22047,13,2684,374,912,2038,2561,389,264,3241,477,5557,2663,330,4627,507,657,3105,1,11951,6319,369,18189,7100,15652,555,13707,889,617,2680,311,1664,3090,382,11458,11,358,1766,430,507,657,3105,374,459,1825,31874,6875,8040,304,34889,4221,11,902,5825,264,3428,11852,3834,369,21583,311,32906,323,16785,8029,20126,13,578,6875,374,13118,2561,389,279,4033,33195,12827,520,3788,1129,5316,916,14,4627,46,657,3105,14,980,3105,11,719,433,596,539,2867,422,1070,374,904,2167,3717,1990,420,6875,323,1664,3090,10648,382,2181,596,3284,430,499,2643,387,22797,311,264,2204,3241,477,5557,430,5825,4528,15293,11,477,7344,1070,596,1063,70847,922,279,7580,315,507,657,3105,13,1442,499,1436,3493,810,2317,477,38263,1148,499,3152,555,330,49944,15652,1,304,420,2317,11,358,4265,387,6380,311,1456,323,1520,4726,13],"total_duration":167147773200,"load_duration":101042450100,"prompt_eval_count":82,"prompt_eval_duration":5838538000,"eval_count":191,"eval_duration":59786629000}
+
+11/14/2024 11:56:01 AM: GetChatResponseAsync completed successfully
+11/14/2024 11:56:01 AM: Ollama: I'm familiar with Connection Ollama, but it seems like there might be some confusion. There is no information available on a software or technology called "Connection Ollama" specifically designed for reducing economic consumption by developers who have access to well water.
+
+However, I found that Ollama is an open-source library developed in Rust language, which provides a low-level interface for connecting to databases and performing SQL queries. The library is indeed available on the official GitHub repository at https://github.com/ConnectionOllama/ollama, but it's not clear if there is any direct connection between this library and well water usage.
+
+It's possible that you might be referring to a different software or technology that provides similar functionality, or maybe there's some misunderstanding about the purpose of Ollama. If you could provide more context or clarify what you mean by "economic consumption" in this context, I'd be happy to try and help further.
+11/14/2024 11:59:19 AM: User: This Ollama from https://ollama.com/, the economic consumption mean that we spend less money, but we gain more quality, quantity and more efficient.
+11/14/2024 11:59:19 AM: Starting GetChatResponseAsync
+11/14/2024 11:59:19 AM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "This Ollama from https://ollama.com/, the economic consumption mean that we spend less money, but we gain more quality, quantity and more efficient."
+}
+11/14/2024 12:00:54 PM: Request sent successfully
+11/14/2024 12:00:54 PM: Response received: {"model":"llama3.2:3b","created_at":"2024-11-14T04:59:26.596083Z","response":"That","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:26.9650998Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:27.1655491Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:27.357293Z","response":" great","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:27.7776024Z","response":" concept","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:28.1310004Z","response":"!","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:28.4753Z","response":" The","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:28.8069761Z","response":" idea","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:29.142473Z","response":" behind","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:29.4763748Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:29.8144789Z","response":"O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:30.0097066Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:30.3190406Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:30.6481289Z","response":"\"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:30.9859539Z","response":" (","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:31.318437Z","response":"also","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:31.6785471Z","response":" spelled","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:31.9919797Z","response":" as","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:32.3234882Z","response":" \"","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:32.6843934Z","response":"Ol","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:33.0091306Z","response":"amma","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:33.2268883Z","response":"\")","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:33.4414952Z","response":" is","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:33.6493396Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:34.0013673Z","response":" promote","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:34.210423Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:34.4166939Z","response":" fr","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:34.8153236Z","response":"ugal","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:35.1648977Z","response":" lifestyle","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:35.499335Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:35.8313337Z","response":" priorit","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:36.1712046Z","response":"izes","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:36.5071568Z","response":" quality","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:36.8397575Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:37.1731648Z","response":" efficiency","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:37.5074027Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:37.842022Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:38.217161Z","response":" sustainability","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:38.4111576Z","response":" over","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:38.601636Z","response":" wast","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:39.0464102Z","response":"eful","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:39.3531825Z","response":" consumption","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:39.6838968Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:40.0203335Z","response":"The","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:40.3521299Z","response":" principles","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:40.6868609Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:41.0223689Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:41.3598152Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:41.7020553Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:42.0288925Z","response":" are","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:42.3689929Z","response":" based","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:42.6983002Z","response":" on","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:43.0377736Z","response":" the","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:43.3735021Z","response":" idea","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:43.7039411Z","response":" that","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:44.0364324Z","response":" by","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:44.3719001Z","response":" reducing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:44.603603Z","response":" unnecessary","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:45.0225551Z","response":" expenses","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:45.3748077Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:45.5747141Z","response":" investing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:45.8814058Z","response":" in","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:46.2113405Z","response":" experiences","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:46.5429376Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:46.8802034Z","response":" relationships","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:47.2187142Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:47.5494704Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:47.8869169Z","response":" personal","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:48.2200209Z","response":" growth","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:48.553586Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:48.8910636Z","response":" individuals","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:49.2235186Z","response":" can","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:49.5572624Z","response":" achieve","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:49.8943352Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:50.2331413Z","response":" higher","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:50.4444241Z","response":" level","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:50.8780038Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:51.2523031Z","response":" happiness","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:51.44757Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:51.682305Z","response":" fulfillment","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:52.0588919Z","response":" while","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:52.4454884Z","response":" minimizing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:52.8779635Z","response":" their","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:53.230661Z","response":" environmental","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:53.4379509Z","response":" footprint","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:53.6468996Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:54.0582532Z","response":"By","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:54.4071086Z","response":" focusing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:54.7434227Z","response":" on","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:55.0773889Z","response":" what","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:55.4181852Z","response":"'s","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:55.748Z","response":" truly","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:56.0819226Z","response":" important","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:56.414785Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:56.7507122Z","response":" letting","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:56.9491001Z","response":" go","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:57.2570431Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:57.589179Z","response":" material","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:57.9266341Z","response":" possessions","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:58.2559428Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:58.5946769Z","response":" excessive","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:58.9252905Z","response":" spending","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:59.2608483Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:59.5985505Z","response":" people","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T04:59:59.9307365Z","response":" can","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:00.2819067Z","response":":\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:00.7690315Z","response":"1","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:01.3123262Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:01.78108Z","response":" Save","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:02.1158399Z","response":" money","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:02.4454714Z","response":":","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:02.7771995Z","response":" By","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:03.1163272Z","response":" being","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:03.4493065Z","response":" more","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:03.877957Z","response":" mindful","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:04.2706998Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:04.474822Z","response":" their","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:04.6782956Z","response":" consumption","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:05.0985263Z","response":" habits","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:05.4523006Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:05.7893249Z","response":" individuals","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:06.1253944Z","response":" can","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:06.3312879Z","response":" reduce","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:06.630737Z","response":" unnecessary","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:06.9604865Z","response":" expenses","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:07.2933302Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:07.627837Z","response":" allocate","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:07.9625457Z","response":" their","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:08.2967585Z","response":" resources","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:08.6309522Z","response":" towards","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:08.9713597Z","response":" more","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:09.3048466Z","response":" meaningful","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:09.6616007Z","response":" pursuits","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:09.9745934Z","response":".\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:10.3062616Z","response":"2","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:10.6394698Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:10.9753993Z","response":" Gain","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:11.3168927Z","response":" quality","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:11.520524Z","response":":","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:11.9548464Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:12.3085017Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:12.6484047Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:12.8825289Z","response":" encourages","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:13.2990962Z","response":" people","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:13.6506305Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:13.8519333Z","response":" invest","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:14.1649648Z","response":" in","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:14.4928542Z","response":" experiences","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:14.8238465Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:15.1642483Z","response":" relationships","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:15.5095584Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:15.8362463Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:16.1702236Z","response":" personal","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:16.5003945Z","response":" growth","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:16.8347639Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:17.1679085Z","response":" which","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:17.5023041Z","response":" can","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:17.8392666Z","response":" lead","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:18.246774Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:18.380845Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:18.8147485Z","response":" greater","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:19.1728648Z","response":" sense","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:19.3818196Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:19.8188103Z","response":" fulfillment","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:20.1764975Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:20.3800702Z","response":" satisfaction","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:20.6894315Z","response":".\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:21.0183875Z","response":"3","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:21.3566009Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:21.6889464Z","response":" Increase","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:22.0216167Z","response":" quantity","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:22.3559248Z","response":":","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:22.6922938Z","response":" Despite","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:23.0311513Z","response":" reducing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:23.3610734Z","response":" waste","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:23.6970468Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:23.9087686Z","response":" excess","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:24.336354Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:24.7036301Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:24.91768Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:25.1238941Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:25.5238052Z","response":" also","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:25.8676563Z","response":" emphasizes","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:26.2056365Z","response":" the","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:26.5402044Z","response":" importance","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:26.8730652Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:27.2093896Z","response":" increasing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:27.5432501Z","response":" productivity","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:27.8808265Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:28.213871Z","response":" efficiency","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:28.5479978Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:28.8835896Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:29.2182433Z","response":" output","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:29.5532159Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:29.7769769Z","response":" allowing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:30.0039451Z","response":" individuals","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:30.2254976Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:30.4455005Z","response":" achieve","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:30.6624787Z","response":" more","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:30.8649161Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:31.2312811Z","response":" less","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:31.4496813Z","response":".\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:31.6591708Z","response":"4","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:31.8799307Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:32.1030915Z","response":" Become","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:32.3192026Z","response":" more","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:32.5262114Z","response":" efficient","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:32.8920305Z","response":":","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:33.1100397Z","response":" By","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:33.3331824Z","response":" simpl","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:33.7255326Z","response":"ifying","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:34.0656325Z","response":" their","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:34.4024918Z","response":" lives","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:34.734506Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:35.0723027Z","response":" eliminating","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:35.2817155Z","response":" unnecessary","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:35.7123963Z","response":" expenses","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:36.0742485Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:36.2835381Z","response":" people","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:36.7153286Z","response":" can","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:37.0784019Z","response":" focus","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:37.2954716Z","response":" on","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:37.508291Z","response":" what","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:37.7184941Z","response":" truly","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:38.0818822Z","response":" matters","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:38.2949223Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:38.5196195Z","response":" optimize","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:38.7334927Z","response":" their","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:38.9487565Z","response":" time","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:39.1605924Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:39.3698546Z","response":" resources","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:39.7448795Z","response":".\n\n","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:40.0898401Z","response":"Overall","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:40.4233232Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:40.7592326Z","response":" the","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:41.0957895Z","response":" economic","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:41.4302069Z","response":" consumption","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:41.7637456Z","response":" principles","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:42.0987723Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:42.4355844Z","response":" O","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:42.7684791Z","response":"ll","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:43.1015789Z","response":"ama","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:43.442602Z","response":" offer","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:43.9196376Z","response":" a","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:44.2730899Z","response":" refreshing","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:44.6152653Z","response":" alternative","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:44.9580375Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:45.2840088Z","response":" the","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:45.6225957Z","response":" traditional","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:45.947052Z","response":" consumer","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:46.2810758Z","response":"ist","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:46.6160436Z","response":" mindset","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:46.9512454Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:47.2876827Z","response":" encouraging","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:47.6246981Z","response":" people","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:47.9632363Z","response":" to","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:48.3015575Z","response":" rethink","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:48.6310452Z","response":" their","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:48.9631934Z","response":" relationship","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:49.2962162Z","response":" with","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:49.6334602Z","response":" money","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:49.9668755Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:50.3007342Z","response":" material","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:50.6363955Z","response":" possessions","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:50.8606267Z","response":" in","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:51.0832068Z","response":" favor","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:51.3151319Z","response":" of","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:51.5355679Z","response":" experiences","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:51.7576583Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:51.976452Z","response":" relationships","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:52.4495659Z","response":",","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:52.8074656Z","response":" and","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:53.1449517Z","response":" personal","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:53.4800875Z","response":" growth","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:53.8164244Z","response":".","done":false}
+{"model":"llama3.2:3b","created_at":"2024-11-14T05:00:54.1482938Z","response":"","done":true,"done_reason":"stop","context":[128006,9125,128007,271,38766,1303,33025,2696,25,6790,220,2366,18,271,128009,128006,882,128007,271,2028,507,657,3105,505,3788,1129,980,3105,916,35645,279,7100,15652,3152,430,584,8493,2753,3300,11,719,584,8895,810,4367,11,12472,323,810,11297,13,128009,128006,78191,128007,271,4897,596,264,2294,7434,0,578,4623,4920,330,46,657,3105,1,320,19171,68918,439,330,43819,13400,909,374,311,12192,264,1448,45284,19433,430,45777,4861,4367,11,15374,11,323,41329,927,41421,52221,15652,382,791,16565,315,507,657,3105,527,3196,389,279,4623,430,555,18189,26225,18512,323,26012,304,11704,11,12135,11,323,4443,6650,11,7931,649,11322,264,5190,2237,315,23871,323,57383,1418,77391,872,12434,43972,382,1383,21760,389,1148,596,9615,3062,323,20806,733,315,3769,53635,323,27639,10374,11,1274,649,1473,16,13,10467,3300,25,3296,1694,810,63442,315,872,15652,26870,11,7931,649,8108,26225,18512,323,22864,872,5070,7119,810,23222,90887,627,17,13,50809,4367,25,507,657,3105,37167,1274,311,2793,304,11704,11,12135,11,323,4443,6650,11,902,649,3063,311,264,7191,5647,315,57383,323,24617,627,18,13,40733,12472,25,18185,18189,12571,323,13937,11,507,657,3105,1101,66159,279,12939,315,7859,26206,11,15374,11,323,2612,11,10923,7931,311,11322,810,449,2753,627,19,13,51378,810,11297,25,3296,15858,7922,872,6439,323,40599,26225,18512,11,1274,649,5357,389,1148,9615,13146,323,30536,872,892,323,5070,382,28589,11,279,7100,15652,16565,315,507,657,3105,3085,264,37018,10778,311,279,8776,11761,380,40543,11,26921,1274,311,76755,872,5133,449,3300,323,3769,53635,304,4799,315,11704,11,12135,11,323,4443,6650,13],"total_duration":94417368000,"load_duration":2075413300,"prompt_eval_count":57,"prompt_eval_duration":4759783000,"eval_count":276,"eval_duration":87551991000}
+
+11/14/2024 12:00:54 PM: GetChatResponseAsync completed successfully
+11/14/2024 12:00:54 PM: Ollama: That's a great concept! The idea behind "Ollama" (also spelled as "Olamma") is to promote a frugal lifestyle that prioritizes quality, efficiency, and sustainability over wasteful consumption.
+
+The principles of Ollama are based on the idea that by reducing unnecessary expenses and investing in experiences, relationships, and personal growth, individuals can achieve a higher level of happiness and fulfillment while minimizing their environmental footprint.
+
+By focusing on what's truly important and letting go of material possessions and excessive spending, people can:
+
+1. Save money: By being more mindful of their consumption habits, individuals can reduce unnecessary expenses and allocate their resources towards more meaningful pursuits.
+2. Gain quality: Ollama encourages people to invest in experiences, relationships, and personal growth, which can lead to a greater sense of fulfillment and satisfaction.
+3. Increase quantity: Despite reducing waste and excess, Ollama also emphasizes the importance of increasing productivity, efficiency, and output, allowing individuals to achieve more with less.
+4. Become more efficient: By simplifying their lives and eliminating unnecessary expenses, people can focus on what truly matters and optimize their time and resources.
+
+Overall, the economic consumption principles of Ollama offer a refreshing alternative to the traditional consumerist mindset, encouraging people to rethink their relationship with money and material possessions in favor of experiences, relationships, and personal growth.
+11/14/2024 12:17:50 PM: User: Of course, because of that, I think to build this OllamaBlazorApp with the following code using C# language and Blazor Compoent: 1) Program.cs: using OllamaBlazorApp.Data; using OllamaBlazorApp;  var builder = WebApplication.CreateBuilder(args);  // Add services to the container. builder.Services.AddRazorPages(); builder.Services.AddServerSideBlazor(); builder.Services.AddSingleton<WeatherForecastService>();  var logger = new Logger("ollamalog"); builder.Services.AddSingleton(logger); builder.Services.AddSingleton(sp => new OllamaClient("http://localhost:11434/api", "llama3.2:3b", logger));  var app = builder.Build();  // Configure the HTTP request pipeline. if (app.Environment.IsDevelopment()) {     app.UseDeveloperExceptionPage(); } else {     app.UseExceptionHandler("/Error");     app.UseHsts(); }  app.UseHttpsRedirection(); app.UseStaticFiles(); app.UseRouting();  app.MapBlazorHub(); app.MapFallbackToPage("/_Host");  app.Run(); 2) OllamaClient.cs: namespace OllamaBlazorApp {     using System.Net.Http;     using System.Threading.Tasks;     using Newtonsoft.Json.Linq;     using OllamaBlazorApp.Data;       public class OllamaClient     {         private readonly HttpClient _httpClient;         private readonly string _baseUrl;         private readonly string _modelName;         private readonly Logger _logger;          public OllamaClient(string baseUrl, string modelName, Logger logger)         {             _httpClient = new HttpClient             {                 Timeout = TimeSpan.FromMinutes(5) // Increased timeout             };             _baseUrl = baseUrl;             _modelName = modelName;             _logger = logger;         }          public async Task<string> GetChatResponseAsync(string prompt)         {             try             {                 _logger.Log("Starting GetChatResponseAsync");                 var requestUrl = $"{_baseUrl}/generate"; // Correct endpoint                 var payload = new { model = _modelName, prompt = prompt };                  _logger.Log($"Sending request to {requestUrl} with payload: {JObject.FromObject(payload)}");                 var content = new StringContent(JObject.FromObject(payload).ToString(), System.Text.Encoding.UTF8, "application/json");                 var response = await _httpClient.PostAsync(requestUrl, content);                 response.EnsureSuccessStatusCode();                 _logger.Log("Request sent successfully");                  var responseContent = await response.Content.ReadAsStringAsync();                 _logger.Log($"Response received: {responseContent}");                  // Process response which could be in chunks                 var fullResponse = "";                 foreach (var line in responseContent.Split('\n'))                 {                     if (!string.IsNullOrWhiteSpace(line))                     {                         var jsonLine = JObject.Parse(line);                         var messageContent = jsonLine["response"]?.ToString();                         if (!string.IsNullOrWhiteSpace(messageContent))                         {                             fullResponse += messageContent;                         }                     }                 }                  if (string.IsNullOrEmpty(fullResponse))                 {                     throw new Exception("Received empty message content from the API.");                 }                  _logger.Log("GetChatResponseAsync completed successfully");                 return fullResponse;             }             catch (Exception ex)             {                 _logger.Log($"Error in GetChatResponseAsync: {ex.Message}");                 throw;             }         }     } } 3) Logger.cs: namespace OllamaBlazorApp.Data {     using System;     using System.IO;      public class Logger     {         private readonly string logFilePath;         private readonly string chatHistoryFilePath;          public Logger(string logDirectory)         {             if (!Directory.Exists(logDirectory))             {                 Directory.CreateDirectory(logDirectory);             }              logFilePath = Path.Combine(logDirectory, "logregister.log");             chatHistoryFilePath = Path.Combine(logDirectory, "chat_history.json");              // Ensure log files exist             if (!File.Exists(logFilePath))             {                 File.Create(logFilePath).Dispose();             }              if (!File.Exists(chatHistoryFilePath))             {                 File.Create(chatHistoryFilePath).Dispose();             }         }          public void Log(string message)         {             using (StreamWriter writer = new StreamWriter(logFilePath, true))             {                 writer.WriteLine($"{DateTime.Now}: {message}");             }         }          public void SaveChatHistory(string chatHistory)         {             using (StreamWriter writer = new StreamWriter(chatHistoryFilePath))             {                 writer.Write(chatHistory);             }         }          public string LoadChatHistory()         {             if (File.Exists(chatHistoryFilePath))             {                 using (StreamReader reader = new StreamReader(chatHistoryFilePath))                 {                     return reader.ReadToEnd();                 }             }             return string.Empty;         }     }  } and the UI Blazor Compoent: Chatbot.razor: @page "/chat" @using OllamaBlazorApp @inject OllamaClient OllamaClient @inject Logger Logger @using Microsoft.AspNetCore.Components  <h3>Chat with Ollama</h3>  <div>     <ul class="no-bullets">         @foreach (var message in messages)         {             <li>@((MarkupString)message)</li>         }     </ul> </div>  <div class="input-container">     <input @bind="userMessage" placeholder="Type your message..." class="chat-input" />     <button @onclick="SendMessage" class="send-button">Send</button> </div>  <div>@errorMessage</div>  @code {     private string? userMessage;     private List<string> messages = new List<string>();     private string? errorMessage;      protected override void OnInitialized()     {         base.OnInitialized();         var chatHistory = Logger.LoadChatHistory();         if (!string.IsNullOrEmpty(chatHistory))         {             messages.AddRange(chatHistory.Split('\n'));         }     }      private async Task SendMessage()     {         errorMessage = null;         if (!string.IsNullOrWhiteSpace(userMessage))         {             var userMessageHtml = $"<i class=\"bi bi-person large-icon\"></i> You: {userMessage}";             messages.Add(userMessageHtml);             Logger.Log($"User: {userMessage}");             try             {                 var response = await OllamaClient.GetChatResponseAsync(userMessage);                 var responseHtml = $"<i class=\"bi bi-robot large-icon\"></i> Ollama: {response}";                 messages.Add(responseHtml);                 Logger.Log($"Ollama: {response}");             }             catch (Exception ex)             {                 errorMessage = $"Error: {ex.Message}";                 Logger.Log($"Error: {ex.Message}");             }             userMessage = string.Empty;             SaveChatHistory();         }     }      private void SaveChatHistory()     {         var chatHistory = string.Join("\n", messages);         Logger.SaveChatHistory(chatHistory);     } }
+11/14/2024 12:17:50 PM: Starting GetChatResponseAsync
+11/14/2024 12:17:50 PM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "Of course, because of that, I think to build this OllamaBlazorApp with the following code using C# language and Blazor Compoent: 1) Program.cs: using OllamaBlazorApp.Data; using OllamaBlazorApp;  var builder = WebApplication.CreateBuilder(args);  // Add services to the container. builder.Services.AddRazorPages(); builder.Services.AddServerSideBlazor(); builder.Services.AddSingleton<WeatherForecastService>();  var logger = new Logger(\"ollamalog\"); builder.Services.AddSingleton(logger); builder.Services.AddSingleton(sp => new OllamaClient(\"http://localhost:11434/api\", \"llama3.2:3b\", logger));  var app = builder.Build();  // Configure the HTTP request pipeline. if (app.Environment.IsDevelopment()) {     app.UseDeveloperExceptionPage(); } else {     app.UseExceptionHandler(\"/Error\");     app.UseHsts(); }  app.UseHttpsRedirection(); app.UseStaticFiles(); app.UseRouting();  app.MapBlazorHub(); app.MapFallbackToPage(\"/_Host\");  app.Run(); 2) OllamaClient.cs: namespace OllamaBlazorApp {     using System.Net.Http;     using System.Threading.Tasks;     using Newtonsoft.Json.Linq;     using OllamaBlazorApp.Data;       public class OllamaClient     {         private readonly HttpClient _httpClient;         private readonly string _baseUrl;         private readonly string _modelName;         private readonly Logger _logger;          public OllamaClient(string baseUrl, string modelName, Logger logger)         {             _httpClient = new HttpClient             {                 Timeout = TimeSpan.FromMinutes(5) // Increased timeout             };             _baseUrl = baseUrl;             _modelName = modelName;             _logger = logger;         }          public async Task<string> GetChatResponseAsync(string prompt)         {             try             {                 _logger.Log(\"Starting GetChatResponseAsync\");                 var requestUrl = $\"{_baseUrl}/generate\"; // Correct endpoint                 var payload = new { model = _modelName, prompt = prompt };                  _logger.Log($\"Sending request to {requestUrl} with payload: {JObject.FromObject(payload)}\");                 var content = new StringContent(JObject.FromObject(payload).ToString(), System.Text.Encoding.UTF8, \"application/json\");                 var response = await _httpClient.PostAsync(requestUrl, content);                 response.EnsureSuccessStatusCode();                 _logger.Log(\"Request sent successfully\");                  var responseContent = await response.Content.ReadAsStringAsync();                 _logger.Log($\"Response received: {responseContent}\");                  // Process response which could be in chunks                 var fullResponse = \"\";                 foreach (var line in responseContent.Split('\\n'))                 {                     if (!string.IsNullOrWhiteSpace(line))                     {                         var jsonLine = JObject.Parse(line);                         var messageContent = jsonLine[\"response\"]?.ToString();                         if (!string.IsNullOrWhiteSpace(messageContent))                         {                             fullResponse += messageContent;                         }                     }                 }                  if (string.IsNullOrEmpty(fullResponse))                 {                     throw new Exception(\"Received empty message content from the API.\");                 }                  _logger.Log(\"GetChatResponseAsync completed successfully\");                 return fullResponse;             }             catch (Exception ex)             {                 _logger.Log($\"Error in GetChatResponseAsync: {ex.Message}\");                 throw;             }         }     } } 3) Logger.cs: namespace OllamaBlazorApp.Data {     using System;     using System.IO;      public class Logger     {         private readonly string logFilePath;         private readonly string chatHistoryFilePath;          public Logger(string logDirectory)         {             if (!Directory.Exists(logDirectory))             {                 Directory.CreateDirectory(logDirectory);             }              logFilePath = Path.Combine(logDirectory, \"logregister.log\");             chatHistoryFilePath = Path.Combine(logDirectory, \"chat_history.json\");              // Ensure log files exist             if (!File.Exists(logFilePath))             {                 File.Create(logFilePath).Dispose();             }              if (!File.Exists(chatHistoryFilePath))             {                 File.Create(chatHistoryFilePath).Dispose();             }         }          public void Log(string message)         {             using (StreamWriter writer = new StreamWriter(logFilePath, true))             {                 writer.WriteLine($\"{DateTime.Now}: {message}\");             }         }          public void SaveChatHistory(string chatHistory)         {             using (StreamWriter writer = new StreamWriter(chatHistoryFilePath))             {                 writer.Write(chatHistory);             }         }          public string LoadChatHistory()         {             if (File.Exists(chatHistoryFilePath))             {                 using (StreamReader reader = new StreamReader(chatHistoryFilePath))                 {                     return reader.ReadToEnd();                 }             }             return string.Empty;         }     }  } and the UI Blazor Compoent: Chatbot.razor: @page \"/chat\" @using OllamaBlazorApp @inject OllamaClient OllamaClient @inject Logger Logger @using Microsoft.AspNetCore.Components  <h3>Chat with Ollama</h3>  <div>     <ul class=\"no-bullets\">         @foreach (var message in messages)         {             <li>@((MarkupString)message)</li>         }     </ul> </div>  <div class=\"input-container\">     <input @bind=\"userMessage\" placeholder=\"Type your message...\" class=\"chat-input\" />     <button @onclick=\"SendMessage\" class=\"send-button\">Send</button> </div>  <div>@errorMessage</div>  @code {     private string? userMessage;     private List<string> messages = new List<string>();     private string? errorMessage;      protected override void OnInitialized()     {         base.OnInitialized();         var chatHistory = Logger.LoadChatHistory();         if (!string.IsNullOrEmpty(chatHistory))         {             messages.AddRange(chatHistory.Split('\\n'));         }     }      private async Task SendMessage()     {         errorMessage = null;         if (!string.IsNullOrWhiteSpace(userMessage))         {             var userMessageHtml = $\"<i class=\\\"bi bi-person large-icon\\\"></i> You: {userMessage}\";             messages.Add(userMessageHtml);             Logger.Log($\"User: {userMessage}\");             try             {                 var response = await OllamaClient.GetChatResponseAsync(userMessage);                 var responseHtml = $\"<i class=\\\"bi bi-robot large-icon\\\"></i> Ollama: {response}\";                 messages.Add(responseHtml);                 Logger.Log($\"Ollama: {response}\");             }             catch (Exception ex)             {                 errorMessage = $\"Error: {ex.Message}\";                 Logger.Log($\"Error: {ex.Message}\");             }             userMessage = string.Empty;             SaveChatHistory();         }     }      private void SaveChatHistory()     {         var chatHistory = string.Join(\"\\n\", messages);         Logger.SaveChatHistory(chatHistory);     } }"
+}
+11/14/2024 12:22:53 PM: Error in GetChatResponseAsync: The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
+11/14/2024 12:22:54 PM: Error: The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
+11/14/2024 1:25:01 PM: User: Of course, because of that, I think to build this OllamaBlazorApp with the following code using C# language and Blazor Compoent: 1) Program.cs: using OllamaBlazorApp.Data; using OllamaBlazorApp; var builder = WebApplication.CreateBuilder(args); // Add services to the container. builder.Services.AddRazorPages(); builder.Services.AddServerSideBlazor(); builder.Services.AddSingleton(); var logger = new Logger("ollamalog"); builder.Services.AddSingleton(logger); builder.Services.AddSingleton(sp => new OllamaClient("http://localhost:11434/api", "llama3.2:3b", logger)); var app = builder.Build(); // Configure the HTTP request pipeline. if (app.Environment.IsDevelopment()) { app.UseDeveloperExceptionPage(); } else { app.UseExceptionHandler("/Error"); app.UseHsts(); } app.UseHttpsRedirection(); app.UseStaticFiles(); app.UseRouting(); app.MapBlazorHub(); app.MapFallbackToPage("/_Host"); app.Run(); 2) OllamaClient.cs: namespace OllamaBlazorApp { using System.Net.Http; using System.Threading.Tasks; using Newtonsoft.Json.Linq; using OllamaBlazorApp.Data; public class OllamaClient { private readonly HttpClient _httpClient; private readonly string _baseUrl; private readonly string _modelName; private readonly Logger _logger; public OllamaClient(string baseUrl, string modelName, Logger logger) { _httpClient = new HttpClient { Timeout = TimeSpan.FromMinutes(5) // Increased timeout }; _baseUrl = baseUrl; _modelName = modelName; _logger = logger; } public async Task GetChatResponseAsync(string prompt) { try { _logger.Log("Starting GetChatResponseAsync"); var requestUrl = $"{_baseUrl}/generate"; // Correct endpoint var payload = new { model = _modelName, prompt = prompt }; _logger.Log($"Sending request to {requestUrl} with payload: {JObject.FromObject(payload)}"); var content = new StringContent(JObject.FromObject(payload).ToString(), System.Text.Encoding.UTF8, "application/json"); var response = await _httpClient.PostAsync(requestUrl, content); response.EnsureSuccessStatusCode(); _logger.Log("Request sent successfully"); var responseContent = await response.Content.ReadAsStringAsync(); _logger.Log($"Response received: {responseContent}"); // Process response which could be in chunks var fullResponse = ""; foreach (var line in responseContent.Split('\n')) { if (!string.IsNullOrWhiteSpace(line)) { var jsonLine = JObject.Parse(line); var messageContent = jsonLine["response"]?.ToString(); if (!string.IsNullOrWhiteSpace(messageContent)) { fullResponse += messageContent; } } } if (string.IsNullOrEmpty(fullResponse)) { throw new Exception("Received empty message content from the API."); } _logger.Log("GetChatResponseAsync completed successfully"); return fullResponse; } catch (Exception ex) { _logger.Log($"Error in GetChatResponseAsync: {ex.Message}"); throw; } } } } 3) Logger.cs: namespace OllamaBlazorApp.Data { using System; using System.IO; public class Logger { private readonly string logFilePath; private readonly string chatHistoryFilePath; public Logger(string logDirectory) { if (!Directory.Exists(logDirectory)) { Directory.CreateDirectory(logDirectory); } logFilePath = Path.Combine(logDirectory, "logregister.log"); chatHistoryFilePath = Path.Combine(logDirectory, "chat_history.json"); // Ensure log files exist if (!File.Exists(logFilePath)) { File.Create(logFilePath).Dispose(); } if (!File.Exists(chatHistoryFilePath)) { File.Create(chatHistoryFilePath).Dispose(); } } public void Log(string message) { using (StreamWriter writer = new StreamWriter(logFilePath, true)) { writer.WriteLine($"{DateTime.Now}: {message}"); } } public void SaveChatHistory(string chatHistory) { using (StreamWriter writer = new StreamWriter(chatHistoryFilePath)) { writer.Write(chatHistory); } } public string LoadChatHistory() { if (File.Exists(chatHistoryFilePath)) { using (StreamReader reader = new StreamReader(chatHistoryFilePath)) { return reader.ReadToEnd(); } } return string.Empty; } } } and the UI Blazor Compoent: Chatbot.razor: @page "/chat" @using OllamaBlazorApp @inject OllamaClient OllamaClient @inject Logger Logger @using Microsoft.AspNetCore.Components Chat with Ollama @foreach (var message in messages) { @((MarkupString)message) } Type your message... Send @errorMessage @code { private string? userMessage; private List messages = new List(); private string? errorMessage; protected override void OnInitialized() { base.OnInitialized(); var chatHistory = Logger.LoadChatHistory(); if (!string.IsNullOrEmpty(chatHistory)) { messages.AddRange(chatHistory.Split('\n')); } } private async Task SendMessage() { errorMessage = null; if (!string.IsNullOrWhiteSpace(userMessage)) { var userMessageHtml = $" You: {userMessage}"; messages.Add(userMessageHtml); Logger.Log($"User: {userMessage}"); try { var response = await OllamaClient.GetChatResponseAsync(userMessage); var responseHtml = $" Ollama: {response}"; messages.Add(responseHtml); Logger.Log($"Ollama: {response}"); } catch (Exception ex) { errorMessage = $"Error: {ex.Message}"; Logger.Log($"Error: {ex.Message}"); } userMessage = string.Empty; SaveChatHistory(); } } private void SaveChatHistory() { var chatHistory = string.Join("\n", messages); Logger.SaveChatHistory(chatHistory); } }
+11/14/2024 1:25:01 PM: Starting GetChatResponseAsync
+11/14/2024 1:25:01 PM: Sending request to http://localhost:11434/api/generate with payload: {
+  "model": "llama3.2:3b",
+  "prompt": "Of course, because of that, I think to build this OllamaBlazorApp with the following code using C# language and Blazor Compoent: 1) Program.cs: using OllamaBlazorApp.Data; using OllamaBlazorApp; var builder = WebApplication.CreateBuilder(args); // Add services to the container. builder.Services.AddRazorPages(); builder.Services.AddServerSideBlazor(); builder.Services.AddSingleton(); var logger = new Logger(\"ollamalog\"); builder.Services.AddSingleton(logger); builder.Services.AddSingleton(sp => new OllamaClient(\"http://localhost:11434/api\", \"llama3.2:3b\", logger)); var app = builder.Build(); // Configure the HTTP request pipeline. if (app.Environment.IsDevelopment()) { app.UseDeveloperExceptionPage(); } else { app.UseExceptionHandler(\"/Error\"); app.UseHsts(); } app.UseHttpsRedirection(); app.UseStaticFiles(); app.UseRouting(); app.MapBlazorHub(); app.MapFallbackToPage(\"/_Host\"); app.Run(); 2) OllamaClient.cs: namespace OllamaBlazorApp { using System.Net.Http; using System.Threading.Tasks; using Newtonsoft.Json.Linq; using OllamaBlazorApp.Data; public class OllamaClient { private readonly HttpClient _httpClient; private readonly string _baseUrl; private readonly string _modelName; private readonly Logger _logger; public OllamaClient(string baseUrl, string modelName, Logger logger) { _httpClient = new HttpClient { Timeout = TimeSpan.FromMinutes(5) // Increased timeout }; _baseUrl = baseUrl; _modelName = modelName; _logger = logger; } public async Task GetChatResponseAsync(string prompt) { try { _logger.Log(\"Starting GetChatResponseAsync\"); var requestUrl = $\"{_baseUrl}/generate\"; // Correct endpoint var payload = new { model = _modelName, prompt = prompt }; _logger.Log($\"Sending request to {requestUrl} with payload: {JObject.FromObject(payload)}\"); var content = new StringContent(JObject.FromObject(payload).ToString(), System.Text.Encoding.UTF8, \"application/json\"); var response = await _httpClient.PostAsync(requestUrl, content); response.EnsureSuccessStatusCode(); _logger.Log(\"Request sent successfully\"); var responseContent = await response.Content.ReadAsStringAsync(); _logger.Log($\"Response received: {responseContent}\"); // Process response which could be in chunks var fullResponse = \"\"; foreach (var line in responseContent.Split('\\n')) { if (!string.IsNullOrWhiteSpace(line)) { var jsonLine = JObject.Parse(line); var messageContent = jsonLine[\"response\"]?.ToString(); if (!string.IsNullOrWhiteSpace(messageContent)) { fullResponse += messageContent; } } } if (string.IsNullOrEmpty(fullResponse)) { throw new Exception(\"Received empty message content from the API.\"); } _logger.Log(\"GetChatResponseAsync completed successfully\"); return fullResponse; } catch (Exception ex) { _logger.Log($\"Error in GetChatResponseAsync: {ex.Message}\"); throw; } } } } 3) Logger.cs: namespace OllamaBlazorApp.Data { using System; using System.IO; public class Logger { private readonly string logFilePath; private readonly string chatHistoryFilePath; public Logger(string logDirectory) { if (!Directory.Exists(logDirectory)) { Directory.CreateDirectory(logDirectory); } logFilePath = Path.Combine(logDirectory, \"logregister.log\"); chatHistoryFilePath = Path.Combine(logDirectory, \"chat_history.json\"); // Ensure log files exist if (!File.Exists(logFilePath)) { File.Create(logFilePath).Dispose(); } if (!File.Exists(chatHistoryFilePath)) { File.Create(chatHistoryFilePath).Dispose(); } } public void Log(string message) { using (StreamWriter writer = new StreamWriter(logFilePath, true)) { writer.WriteLine($\"{DateTime.Now}: {message}\"); } } public void SaveChatHistory(string chatHistory) { using (StreamWriter writer = new StreamWriter(chatHistoryFilePath)) { writer.Write(chatHistory); } } public string LoadChatHistory() { if (File.Exists(chatHistoryFilePath)) { using (StreamReader reader = new StreamReader(chatHistoryFilePath)) { return reader.ReadToEnd(); } } return string.Empty; } } } and the UI Blazor Compoent: Chatbot.razor: @page \"/chat\" @using OllamaBlazorApp @inject OllamaClient OllamaClient @inject Logger Logger @using Microsoft.AspNetCore.Components Chat with Ollama @foreach (var message in messages) { @((MarkupString)message) } Type your message... Send @errorMessage @code { private string? userMessage; private List messages = new List(); private string? errorMessage; protected override void OnInitialized() { base.OnInitialized(); var chatHistory = Logger.LoadChatHistory(); if (!string.IsNullOrEmpty(chatHistory)) { messages.AddRange(chatHistory.Split('\\n')); } } private async Task SendMessage() { errorMessage = null; if (!string.IsNullOrWhiteSpace(userMessage)) { var userMessageHtml = $\" You: {userMessage}\"; messages.Add(userMessageHtml); Logger.Log($\"User: {userMessage}\"); try { var response = await OllamaClient.GetChatResponseAsync(userMessage); var responseHtml = $\" Ollama: {response}\"; messages.Add(responseHtml); Logger.Log($\"Ollama: {response}\"); } catch (Exception ex) { errorMessage = $\"Error: {ex.Message}\"; Logger.Log($\"Error: {ex.Message}\"); } userMessage = string.Empty; SaveChatHistory(); } } private void SaveChatHistory() { var chatHistory = string.Join(\"\\n\", messages); Logger.SaveChatHistory(chatHistory); } }"
+}
+11/14/2024 1:30:05 PM: Error in GetChatResponseAsync: The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.
+11/14/2024 1:30:06 PM: Error: The request was canceled due to the configured HttpClient.Timeout of 300 seconds elapsing.

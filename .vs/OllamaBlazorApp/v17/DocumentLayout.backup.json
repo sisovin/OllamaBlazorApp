@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learnDotNet8\\OllamaBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF56CA9-C57A-4FDD-8796-0178C6195F90}|OllamaBlazorApp.csproj|d:\\learndotnet8\\ollamablazorapp\\pages\\chatbot.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF56CA9-C57A-4FDD-8796-0178C6195F90}|OllamaBlazorApp.csproj|solutionrelative:pages\\chatbot.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF56CA9-C57A-4FDD-8796-0178C6195F90}|OllamaBlazorApp.csproj|d:\\learndotnet8\\ollamablazorapp\\data\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF56CA9-C57A-4FDD-8796-0178C6195F90}|OllamaBlazorApp.csproj|solutionrelative:data\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF56CA9-C57A-4FDD-8796-0178C6195F90}|OllamaBlazorApp.csproj|d:\\learndotnet8\\ollamablazorapp\\data\\ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF56CA9-C57A-4FDD-8796-0178C6195F90}|OllamaBlazorApp.csproj|solutionrelative:data\\ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1876031443:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chatbot.razor",
+              "DocumentMoniker": "D:\\learnDotNet8\\OllamaBlazorApp\\Pages\\Chatbot.razor",
+              "RelativeDocumentMoniker": "Pages\\Chatbot.razor",
+              "ToolTip": "D:\\learnDotNet8\\OllamaBlazorApp\\Pages\\Chatbot.razor",
+              "RelativeToolTip": "Pages\\Chatbot.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T05:17:30.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\learnDotNet8\\OllamaBlazorApp\\Data\\Logger.cs",
+              "RelativeDocumentMoniker": "Data\\Logger.cs",
+              "ToolTip": "D:\\learnDotNet8\\OllamaBlazorApp\\Data\\Logger.cs",
+              "RelativeToolTip": "Data\\Logger.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:15:41.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OllamaClient.cs",
+              "DocumentMoniker": "D:\\learnDotNet8\\OllamaBlazorApp\\Data\\OllamaClient.cs",
+              "RelativeDocumentMoniker": "Data\\OllamaClient.cs",
+              "ToolTip": "D:\\learnDotNet8\\OllamaBlazorApp\\Data\\OllamaClient.cs",
+              "RelativeToolTip": "Data\\OllamaClient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:14:53.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

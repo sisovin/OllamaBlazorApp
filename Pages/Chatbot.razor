@@ -1,0 +1,70 @@
+﻿@page "/chat"
+@using OllamaBlazorApp
+@inject OllamaClient OllamaClient
+@inject Logger Logger
+@using Microsoft.AspNetCore.Components
+
+<h3>Chat with Ollama</h3>
+<hr />
+<div>
+    <ul class="no-bullets">
+        @foreach (var message in messages)
+        {
+            <li>@((MarkupString)message)</li>
+        }
+    </ul>
+</div>
+
+<div class="input-container">
+    <input @bind="userMessage" placeholder="Type your message..." class="chat-input" />
+    <button @onclick="SendMessage" class="send-button">Send</button>
+</div>
+
+<div>@errorMessage</div>
+
+@code {
+    private string? userMessage;
+    private List<string> messages = new List<string>();
+    private string? errorMessage;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        var chatHistory = Logger.LoadChatHistory();
+        if (!string.IsNullOrEmpty(chatHistory))
+        {
+            messages.AddRange(chatHistory.Split('\n'));
+        }
+    }
+
+    private async Task SendMessage()
+    {
+        errorMessage = null;
+        if (!string.IsNullOrWhiteSpace(userMessage))
+        {
+            var userMessageHtml = $"<i class=\"bi bi-person large-icon\"></i> You: {userMessage}";
+            messages.Add(userMessageHtml);
+            Logger.Log($"User: {userMessage}");
+            try
+            {
+                var response = await OllamaClient.GetChatResponseAsync(userMessage);
+                var responseHtml = $"<i class=\"bi bi-robot large-icon\"></i> Ollama: {response}";
+                messages.Add(responseHtml);
+                Logger.Log($"Ollama: {response}");
+            }
+            catch (Exception ex)
+            {
+                errorMessage = $"Error: {ex.Message}";
+                Logger.Log($"Error: {ex.Message}");
+            }
+            userMessage = string.Empty;
+            SaveChatHistory();
+        }
+    }
+
+    private void SaveChatHistory()
+    {
+        var chatHistory = string.Join("\n", messages);
+        Logger.SaveChatHistory(chatHistory);
+    }
+}
